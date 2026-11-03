@@ -1,22 +1,12 @@
-# Operating system generated files
-.DS_Store
-.DS_Store?
-Thumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-.Spotlight-V100
-.Trashes
-
-# Editors and IDE settings
+# Editor files
 .vscode/
 .idea/
-*.code-workspace
-*.swp
-*.swo
-*~
 
-# Local temporary and log files
-*.log
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.swp
 *.tmp
-*.bak
-*.orig
